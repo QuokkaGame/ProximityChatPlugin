@@ -1,6 +1,6 @@
 # 🔊 Proximity Chat Plugin
 
-![Java](https://img.shields.io/badge/Java-21-red) ![Paper](https://img.shields.io/badge/Paper-1.21+-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green) ![Disclaimer](https://img.shields.io/badge/Not%20affiliated%20with-LuckPerms-red
+![Java](https://img.shields.io/badge/Java-21-red) ![Paper](https://img.shields.io/badge/Paper-1.21+-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green) ![Disclaimer](https://img.shields.io/badge/Not%20affiliated%20with-LuckPerms-red)
 
 ## 🚀 Overview
 **ProximityChatPlugin** adds **proximity-based text chat** to Minecraft!  
