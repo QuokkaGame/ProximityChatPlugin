@@ -1,0 +1,18 @@
+name: ProximityChatPlugin
+version: '1.0'
+main: QuokkaGame.com.github.proximityChatPlugin.ProximityChatPlugin
+api-version: '1.21'
+dependencies:
+  server:
+    CommandAPI:
+      load: BEFORE
+      required: true
+      join-classpath: true
+    LuckPerms:
+      load: BEFORE
+      required: true
+      join-classpath: true
+permissions:
+    proximitychat.reload:
+      description: "ProximityChat reload permission"
+      default: op

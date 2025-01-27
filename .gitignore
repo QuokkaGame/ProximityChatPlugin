@@ -1,0 +1,22 @@
+# Java & Gradle build files
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle-specific files
+.gradle/
+build/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Other files and directories that can be ignored
+out/
+bin/
+target/
